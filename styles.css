@@ -82,7 +82,7 @@ label {
     display: block;
     width: auto;
     height: 2rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     padding: 0.25rem auto;
     margin: 2rem;
     text-align: center;
@@ -146,13 +146,13 @@ h2 {
 }
 
 p {
-    padding: 0 0 1rem 0;
+    padding: 0.5rem 0 1rem 0;
 }
 
 p, h4,
 li {
-    font-size: 1.1rem;
-    line-height: 2rem;
+    font-size: 1.05rem;
+    line-height: 1.6rem;
     margin: auto;
 }
 
@@ -232,7 +232,7 @@ h4
         display: block;
         width: auto;
         height: auto;
-        font-size: 1rem;
+        font-size: 1.05rem;
         padding: 0.25rem auto;
         margin: 2rem;
         text-align: center;
@@ -281,8 +281,8 @@ h4
     
     p,h4
     {
-        font-size: 2.7vw;
-        line-height: 3vh;
+        font-size: 0.9rem;
+        line-height: 1.6rem;
         margin: auto;
     }
 
@@ -294,7 +294,7 @@ h4
 }
 
 
-@media (max-width: 400px) {
+@media (max-width: 300px) {
     html {
         display: none;
     }
